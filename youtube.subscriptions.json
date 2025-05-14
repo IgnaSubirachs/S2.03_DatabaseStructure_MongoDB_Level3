@@ -1,0 +1,84 @@
+[{
+  "_id": {
+    "$oid": "68245835e3f6ee260f83e76c"
+  },
+  "subscriberId": {
+    "$oid": "001bb2700c987cc0fa320074"
+  },
+  "channelId": {
+    "$oid": "9f30e82b3e4d6026985b7209"
+  },
+  "subscribedAt": {
+    "$date": "2025-05-10T10:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68245835e3f6ee260f83e76d"
+  },
+  "subscriberId": {
+    "$oid": "6c196b08f9b1ed2cb12ca6f8"
+  },
+  "channelId": {
+    "$oid": "eceb3eb85ad83bdff64328d0"
+  },
+  "subscribedAt": {
+    "$date": "2025-05-10T10:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68245835e3f6ee260f83e76e"
+  },
+  "subscriberId": {
+    "$oid": "680bac81c0b89a33ffcd68ba"
+  },
+  "channelId": {
+    "$oid": "708e52a16e3744409ed8343e"
+  },
+  "subscribedAt": {
+    "$date": "2025-05-10T10:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68245835e3f6ee260f83e76f"
+  },
+  "subscriberId": {
+    "$oid": "4dfb0e25d42b701e9a8c6f94"
+  },
+  "channelId": {
+    "$oid": "c6d331f27e47c424e9ddac5c"
+  },
+  "subscribedAt": {
+    "$date": "2025-05-10T10:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68245835e3f6ee260f83e770"
+  },
+  "subscriberId": {
+    "$oid": "2aaedc70fcd2d89953745ec8"
+  },
+  "channelId": {
+    "$oid": "d22c6e68b93bdb20e1b6c4f1"
+  },
+  "subscribedAt": {
+    "$date": "2025-05-10T10:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68245835e3f6ee260f83e771"
+  },
+  "subscriberId": {
+    "$oid": "81c254957048e4a912bba0f7"
+  },
+  "channelId": {
+    "$oid": "cc3b1488fbcba77a0daa9659"
+  },
+  "subscribedAt": {
+    "$date": "2025-05-10T10:30:00.000Z"
+  }
+}]

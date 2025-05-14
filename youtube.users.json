@@ -1,0 +1,126 @@
+[{
+  "_id": {
+    "$oid": "001bb2700c987cc0fa320074"
+  },
+  "email": "carlos_garcía@example.com",
+  "password": "Pass1234!",
+  "username": "carlos_garcía",
+  "fullName": "Carlos García",
+  "birthDate": {
+    "$date": "1995-05-15T00:00:00.000Z"
+  },
+  "gender": "male",
+  "country": "Chile",
+  "zipCode": "15459",
+  "createdAt": {
+    "$date": "2025-05-10T10:00:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-10T10:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6c196b08f9b1ed2cb12ca6f8"
+  },
+  "email": "lucia_rodríguez@example.com",
+  "password": "Pass1234!",
+  "username": "lucia_rodríguez",
+  "fullName": "Lucia Rodríguez",
+  "birthDate": {
+    "$date": "1998-06-15T00:00:00.000Z"
+  },
+  "gender": "prefer_not_to_say",
+  "country": "Mexico",
+  "zipCode": "10929",
+  "createdAt": {
+    "$date": "2025-05-10T10:00:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-10T10:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "680bac81c0b89a33ffcd68ba"
+  },
+  "email": "laura_gómez@example.com",
+  "password": "Pass1234!",
+  "username": "laura_gómez",
+  "fullName": "Laura Gómez",
+  "birthDate": {
+    "$date": "1997-01-15T00:00:00.000Z"
+  },
+  "gender": "female",
+  "country": "Mexico",
+  "zipCode": "17328",
+  "createdAt": {
+    "$date": "2025-05-10T10:00:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-10T10:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "4dfb0e25d42b701e9a8c6f94"
+  },
+  "email": "joan_pérez@example.com",
+  "password": "Pass1234!",
+  "username": "joan_pérez",
+  "fullName": "Joan Pérez",
+  "birthDate": {
+    "$date": "1991-04-15T00:00:00.000Z"
+  },
+  "gender": "prefer_not_to_say",
+  "country": "Spain",
+  "zipCode": "70171",
+  "createdAt": {
+    "$date": "2025-05-10T10:00:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-10T10:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "2aaedc70fcd2d89953745ec8"
+  },
+  "email": "elena_gómez@example.com",
+  "password": "Pass1234!",
+  "username": "elena_gómez",
+  "fullName": "Elena Gómez",
+  "birthDate": {
+    "$date": "1996-01-15T00:00:00.000Z"
+  },
+  "gender": "female",
+  "country": "Chile",
+  "zipCode": "24556",
+  "createdAt": {
+    "$date": "2025-05-10T10:00:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-10T10:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "81c254957048e4a912bba0f7"
+  },
+  "email": "elena_martí@example.com",
+  "password": "Pass1234!",
+  "username": "elena_martí",
+  "fullName": "Elena Martí",
+  "birthDate": {
+    "$date": "1999-03-15T00:00:00.000Z"
+  },
+  "gender": "male",
+  "country": "Colombia",
+  "zipCode": "25224",
+  "createdAt": {
+    "$date": "2025-05-10T10:00:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-10T10:00:00.000Z"
+  }
+}]

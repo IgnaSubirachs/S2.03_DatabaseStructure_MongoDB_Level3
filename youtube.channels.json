@@ -1,0 +1,78 @@
+[{
+  "_id": {
+    "$oid": "eceb3eb85ad83bdff64328d0"
+  },
+  "ownerId": {
+    "$oid": "001bb2700c987cc0fa320074"
+  },
+  "name": "Carlos's Channel",
+  "description": "Secret funny challenge journey amazing quick simple incredible review delicious.",
+  "createdAt": {
+    "$date": "2025-05-10T10:05:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "708e52a16e3744409ed8343e"
+  },
+  "ownerId": {
+    "$oid": "6c196b08f9b1ed2cb12ca6f8"
+  },
+  "name": "Lucia's Channel",
+  "description": "Guide simple delicious ultimate secret review journey amazing.",
+  "createdAt": {
+    "$date": "2025-05-10T10:05:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "c6d331f27e47c424e9ddac5c"
+  },
+  "ownerId": {
+    "$oid": "680bac81c0b89a33ffcd68ba"
+  },
+  "name": "Laura's Channel",
+  "description": "Incredible challenge amazing funny review secret ultimate delicious guide quick.",
+  "createdAt": {
+    "$date": "2025-05-10T10:05:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "d22c6e68b93bdb20e1b6c4f1"
+  },
+  "ownerId": {
+    "$oid": "4dfb0e25d42b701e9a8c6f94"
+  },
+  "name": "Joan's Channel",
+  "description": "Simple guide delicious challenge secret ultimate review quick journey funny.",
+  "createdAt": {
+    "$date": "2025-05-10T10:05:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "cc3b1488fbcba77a0daa9659"
+  },
+  "ownerId": {
+    "$oid": "2aaedc70fcd2d89953745ec8"
+  },
+  "name": "Elena's Channel",
+  "description": "Secret delicious journey simple incredible review funny challenge.",
+  "createdAt": {
+    "$date": "2025-05-10T10:05:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "9f30e82b3e4d6026985b7209"
+  },
+  "ownerId": {
+    "$oid": "81c254957048e4a912bba0f7"
+  },
+  "name": "Elena's Channel",
+  "description": "Incredible secret ultimate simple journey quick guide amazing.",
+  "createdAt": {
+    "$date": "2025-05-10T10:05:00.000Z"
+  }
+}]

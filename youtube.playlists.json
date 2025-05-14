@@ -1,0 +1,564 @@
+[{
+  "_id": {
+    "$oid": "68245859e3f6ee260f83e7ab"
+  },
+  "ownerId": {
+    "$oid": "001bb2700c987cc0fa320074"
+  },
+  "name": "carlos_garcía's list 1",
+  "visibility": "private",
+  "createdAt": {
+    "$date": "2025-05-10T10:50:00.000Z"
+  },
+  "videos": [
+    {
+      "videoId": {
+        "$oid": "15c71e78e3dccee6deaab482"
+      },
+      "addedAt": {
+        "$date": "2025-05-10T10:51:00.000Z"
+      }
+    },
+    {
+      "videoId": {
+        "$oid": "8b124d622a6d10ef4bf7e853"
+      },
+      "addedAt": {
+        "$date": "2025-05-10T10:51:00.000Z"
+      }
+    },
+    {
+      "videoId": {
+        "$oid": "0041930f21325acd6572793a"
+      },
+      "addedAt": {
+        "$date": "2025-05-10T10:51:00.000Z"
+      }
+    },
+    {
+      "videoId": {
+        "$oid": "da0bdf97567c52942899d871"
+      },
+      "addedAt": {
+        "$date": "2025-05-10T10:51:00.000Z"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68245859e3f6ee260f83e7ac"
+  },
+  "ownerId": {
+    "$oid": "001bb2700c987cc0fa320074"
+  },
+  "name": "carlos_garcía's list 2",
+  "visibility": "public",
+  "createdAt": {
+    "$date": "2025-05-10T10:50:00.000Z"
+  },
+  "videos": [
+    {
+      "videoId": {
+        "$oid": "9d7151f56f66e60ef2ff6fdb"
+      },
+      "addedAt": {
+        "$date": "2025-05-10T10:51:00.000Z"
+      }
+    },
+    {
+      "videoId": {
+        "$oid": "da0bdf97567c52942899d871"
+      },
+      "addedAt": {
+        "$date": "2025-05-10T10:51:00.000Z"
+      }
+    },
+    {
+      "videoId": {
+        "$oid": "6bb252eb8a82a9b421ed1b49"
+      },
+      "addedAt": {
+        "$date": "2025-05-10T10:51:00.000Z"
+      }
+    },
+    {
+      "videoId": {
+        "$oid": "ba4d92830ee71192111cb40e"
+      },
+      "addedAt": {
+        "$date": "2025-05-10T10:51:00.000Z"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68245859e3f6ee260f83e7ad"
+  },
+  "ownerId": {
+    "$oid": "6c196b08f9b1ed2cb12ca6f8"
+  },
+  "name": "lucia_rodríguez's list 1",
+  "visibility": "public",
+  "createdAt": {
+    "$date": "2025-05-10T10:50:00.000Z"
+  },
+  "videos": [
+    {
+      "videoId": {
+        "$oid": "8b124d622a6d10ef4bf7e853"
+      },
+      "addedAt": {
+        "$date": "2025-05-10T10:51:00.000Z"
+      }
+    },
+    {
+      "videoId": {
+        "$oid": "40effd4969cbc2c3071bb68c"
+      },
+      "addedAt": {
+        "$date": "2025-05-10T10:51:00.000Z"
+      }
+    },
+    {
+      "videoId": {
+        "$oid": "fdd45ff110c698c777c6f731"
+      },
+      "addedAt": {
+        "$date": "2025-05-10T10:51:00.000Z"
+      }
+    },
+    {
+      "videoId": {
+        "$oid": "9dc7f27bc24c96cecf5941ca"
+      },
+      "addedAt": {
+        "$date": "2025-05-10T10:51:00.000Z"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68245859e3f6ee260f83e7ae"
+  },
+  "ownerId": {
+    "$oid": "6c196b08f9b1ed2cb12ca6f8"
+  },
+  "name": "lucia_rodríguez's list 2",
+  "visibility": "private",
+  "createdAt": {
+    "$date": "2025-05-10T10:50:00.000Z"
+  },
+  "videos": [
+    {
+      "videoId": {
+        "$oid": "9dc7f27bc24c96cecf5941ca"
+      },
+      "addedAt": {
+        "$date": "2025-05-10T10:51:00.000Z"
+      }
+    },
+    {
+      "videoId": {
+        "$oid": "52eca4058abb002add4d4ca9"
+      },
+      "addedAt": {
+        "$date": "2025-05-10T10:51:00.000Z"
+      }
+    },
+    {
+      "videoId": {
+        "$oid": "bc626d9f9aec2a68e3c7bffe"
+      },
+      "addedAt": {
+        "$date": "2025-05-10T10:51:00.000Z"
+      }
+    },
+    {
+      "videoId": {
+        "$oid": "7d07c183ea66b28e72ccdaa8"
+      },
+      "addedAt": {
+        "$date": "2025-05-10T10:51:00.000Z"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68245859e3f6ee260f83e7af"
+  },
+  "ownerId": {
+    "$oid": "680bac81c0b89a33ffcd68ba"
+  },
+  "name": "laura_gómez's list 1",
+  "visibility": "private",
+  "createdAt": {
+    "$date": "2025-05-10T10:50:00.000Z"
+  },
+  "videos": [
+    {
+      "videoId": {
+        "$oid": "9dc7f27bc24c96cecf5941ca"
+      },
+      "addedAt": {
+        "$date": "2025-05-10T10:51:00.000Z"
+      }
+    },
+    {
+      "videoId": {
+        "$oid": "bc626d9f9aec2a68e3c7bffe"
+      },
+      "addedAt": {
+        "$date": "2025-05-10T10:51:00.000Z"
+      }
+    },
+    {
+      "videoId": {
+        "$oid": "6bb252eb8a82a9b421ed1b49"
+      },
+      "addedAt": {
+        "$date": "2025-05-10T10:51:00.000Z"
+      }
+    },
+    {
+      "videoId": {
+        "$oid": "7d07c183ea66b28e72ccdaa8"
+      },
+      "addedAt": {
+        "$date": "2025-05-10T10:51:00.000Z"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68245859e3f6ee260f83e7b0"
+  },
+  "ownerId": {
+    "$oid": "680bac81c0b89a33ffcd68ba"
+  },
+  "name": "laura_gómez's list 2",
+  "visibility": "public",
+  "createdAt": {
+    "$date": "2025-05-10T10:50:00.000Z"
+  },
+  "videos": [
+    {
+      "videoId": {
+        "$oid": "93e7bbcebad991cde9f27a79"
+      },
+      "addedAt": {
+        "$date": "2025-05-10T10:51:00.000Z"
+      }
+    },
+    {
+      "videoId": {
+        "$oid": "9418a0bf0e124c0aee30c19a"
+      },
+      "addedAt": {
+        "$date": "2025-05-10T10:51:00.000Z"
+      }
+    },
+    {
+      "videoId": {
+        "$oid": "8b124d622a6d10ef4bf7e853"
+      },
+      "addedAt": {
+        "$date": "2025-05-10T10:51:00.000Z"
+      }
+    },
+    {
+      "videoId": {
+        "$oid": "da0bdf97567c52942899d871"
+      },
+      "addedAt": {
+        "$date": "2025-05-10T10:51:00.000Z"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68245859e3f6ee260f83e7b1"
+  },
+  "ownerId": {
+    "$oid": "4dfb0e25d42b701e9a8c6f94"
+  },
+  "name": "joan_pérez's list 1",
+  "visibility": "public",
+  "createdAt": {
+    "$date": "2025-05-10T10:50:00.000Z"
+  },
+  "videos": [
+    {
+      "videoId": {
+        "$oid": "9418a0bf0e124c0aee30c19a"
+      },
+      "addedAt": {
+        "$date": "2025-05-10T10:51:00.000Z"
+      }
+    },
+    {
+      "videoId": {
+        "$oid": "da0bdf97567c52942899d871"
+      },
+      "addedAt": {
+        "$date": "2025-05-10T10:51:00.000Z"
+      }
+    },
+    {
+      "videoId": {
+        "$oid": "93e7bbcebad991cde9f27a79"
+      },
+      "addedAt": {
+        "$date": "2025-05-10T10:51:00.000Z"
+      }
+    },
+    {
+      "videoId": {
+        "$oid": "9d7151f56f66e60ef2ff6fdb"
+      },
+      "addedAt": {
+        "$date": "2025-05-10T10:51:00.000Z"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68245859e3f6ee260f83e7b2"
+  },
+  "ownerId": {
+    "$oid": "4dfb0e25d42b701e9a8c6f94"
+  },
+  "name": "joan_pérez's list 2",
+  "visibility": "private",
+  "createdAt": {
+    "$date": "2025-05-10T10:50:00.000Z"
+  },
+  "videos": [
+    {
+      "videoId": {
+        "$oid": "0bf126cf4628adaa990931f8"
+      },
+      "addedAt": {
+        "$date": "2025-05-10T10:51:00.000Z"
+      }
+    },
+    {
+      "videoId": {
+        "$oid": "52eca4058abb002add4d4ca9"
+      },
+      "addedAt": {
+        "$date": "2025-05-10T10:51:00.000Z"
+      }
+    },
+    {
+      "videoId": {
+        "$oid": "6bb252eb8a82a9b421ed1b49"
+      },
+      "addedAt": {
+        "$date": "2025-05-10T10:51:00.000Z"
+      }
+    },
+    {
+      "videoId": {
+        "$oid": "40effd4969cbc2c3071bb68c"
+      },
+      "addedAt": {
+        "$date": "2025-05-10T10:51:00.000Z"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68245859e3f6ee260f83e7b3"
+  },
+  "ownerId": {
+    "$oid": "2aaedc70fcd2d89953745ec8"
+  },
+  "name": "elena_gómez's list 1",
+  "visibility": "private",
+  "createdAt": {
+    "$date": "2025-05-10T10:50:00.000Z"
+  },
+  "videos": [
+    {
+      "videoId": {
+        "$oid": "15c71e78e3dccee6deaab482"
+      },
+      "addedAt": {
+        "$date": "2025-05-10T10:51:00.000Z"
+      }
+    },
+    {
+      "videoId": {
+        "$oid": "40effd4969cbc2c3071bb68c"
+      },
+      "addedAt": {
+        "$date": "2025-05-10T10:51:00.000Z"
+      }
+    },
+    {
+      "videoId": {
+        "$oid": "fdd45ff110c698c777c6f731"
+      },
+      "addedAt": {
+        "$date": "2025-05-10T10:51:00.000Z"
+      }
+    },
+    {
+      "videoId": {
+        "$oid": "7d07c183ea66b28e72ccdaa8"
+      },
+      "addedAt": {
+        "$date": "2025-05-10T10:51:00.000Z"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68245859e3f6ee260f83e7b4"
+  },
+  "ownerId": {
+    "$oid": "2aaedc70fcd2d89953745ec8"
+  },
+  "name": "elena_gómez's list 2",
+  "visibility": "private",
+  "createdAt": {
+    "$date": "2025-05-10T10:50:00.000Z"
+  },
+  "videos": [
+    {
+      "videoId": {
+        "$oid": "20a359991106b66b3a9612ae"
+      },
+      "addedAt": {
+        "$date": "2025-05-10T10:51:00.000Z"
+      }
+    },
+    {
+      "videoId": {
+        "$oid": "9418a0bf0e124c0aee30c19a"
+      },
+      "addedAt": {
+        "$date": "2025-05-10T10:51:00.000Z"
+      }
+    },
+    {
+      "videoId": {
+        "$oid": "40effd4969cbc2c3071bb68c"
+      },
+      "addedAt": {
+        "$date": "2025-05-10T10:51:00.000Z"
+      }
+    },
+    {
+      "videoId": {
+        "$oid": "9dc7f27bc24c96cecf5941ca"
+      },
+      "addedAt": {
+        "$date": "2025-05-10T10:51:00.000Z"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68245859e3f6ee260f83e7b5"
+  },
+  "ownerId": {
+    "$oid": "81c254957048e4a912bba0f7"
+  },
+  "name": "elena_martí's list 1",
+  "visibility": "private",
+  "createdAt": {
+    "$date": "2025-05-10T10:50:00.000Z"
+  },
+  "videos": [
+    {
+      "videoId": {
+        "$oid": "fdd45ff110c698c777c6f731"
+      },
+      "addedAt": {
+        "$date": "2025-05-10T10:51:00.000Z"
+      }
+    },
+    {
+      "videoId": {
+        "$oid": "bc626d9f9aec2a68e3c7bffe"
+      },
+      "addedAt": {
+        "$date": "2025-05-10T10:51:00.000Z"
+      }
+    },
+    {
+      "videoId": {
+        "$oid": "40effd4969cbc2c3071bb68c"
+      },
+      "addedAt": {
+        "$date": "2025-05-10T10:51:00.000Z"
+      }
+    },
+    {
+      "videoId": {
+        "$oid": "93e7bbcebad991cde9f27a79"
+      },
+      "addedAt": {
+        "$date": "2025-05-10T10:51:00.000Z"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68245859e3f6ee260f83e7b6"
+  },
+  "ownerId": {
+    "$oid": "81c254957048e4a912bba0f7"
+  },
+  "name": "elena_martí's list 2",
+  "visibility": "private",
+  "createdAt": {
+    "$date": "2025-05-10T10:50:00.000Z"
+  },
+  "videos": [
+    {
+      "videoId": {
+        "$oid": "9418a0bf0e124c0aee30c19a"
+      },
+      "addedAt": {
+        "$date": "2025-05-10T10:51:00.000Z"
+      }
+    },
+    {
+      "videoId": {
+        "$oid": "1710ecfe92f5d39be4ede782"
+      },
+      "addedAt": {
+        "$date": "2025-05-10T10:51:00.000Z"
+      }
+    },
+    {
+      "videoId": {
+        "$oid": "da0bdf97567c52942899d871"
+      },
+      "addedAt": {
+        "$date": "2025-05-10T10:51:00.000Z"
+      }
+    },
+    {
+      "videoId": {
+        "$oid": "0bf126cf4628adaa990931f8"
+      },
+      "addedAt": {
+        "$date": "2025-05-10T10:51:00.000Z"
+      }
+    }
+  ]
+}]

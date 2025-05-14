@@ -1,0 +1,810 @@
+[{
+  "_id": {
+    "$oid": "6824584be3f6ee260f83e773"
+  },
+  "videoId": {
+    "$oid": "20a359991106b66b3a9612ae"
+  },
+  "userId": {
+    "$oid": "4dfb0e25d42b701e9a8c6f94"
+  },
+  "vote": "like",
+  "votedAt": {
+    "$date": "2025-05-10T10:40:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6824584be3f6ee260f83e774"
+  },
+  "videoId": {
+    "$oid": "20a359991106b66b3a9612ae"
+  },
+  "userId": {
+    "$oid": "81c254957048e4a912bba0f7"
+  },
+  "vote": "like",
+  "votedAt": {
+    "$date": "2025-05-10T10:40:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6824584be3f6ee260f83e775"
+  },
+  "videoId": {
+    "$oid": "20a359991106b66b3a9612ae"
+  },
+  "userId": {
+    "$oid": "680bac81c0b89a33ffcd68ba"
+  },
+  "vote": "like",
+  "votedAt": {
+    "$date": "2025-05-10T10:40:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6824584be3f6ee260f83e776"
+  },
+  "videoId": {
+    "$oid": "52eca4058abb002add4d4ca9"
+  },
+  "userId": {
+    "$oid": "4dfb0e25d42b701e9a8c6f94"
+  },
+  "vote": "dislike",
+  "votedAt": {
+    "$date": "2025-05-10T10:40:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6824584be3f6ee260f83e777"
+  },
+  "videoId": {
+    "$oid": "52eca4058abb002add4d4ca9"
+  },
+  "userId": {
+    "$oid": "680bac81c0b89a33ffcd68ba"
+  },
+  "vote": "like",
+  "votedAt": {
+    "$date": "2025-05-10T10:40:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6824584be3f6ee260f83e778"
+  },
+  "videoId": {
+    "$oid": "52eca4058abb002add4d4ca9"
+  },
+  "userId": {
+    "$oid": "2aaedc70fcd2d89953745ec8"
+  },
+  "vote": "dislike",
+  "votedAt": {
+    "$date": "2025-05-10T10:40:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6824584be3f6ee260f83e779"
+  },
+  "videoId": {
+    "$oid": "bc626d9f9aec2a68e3c7bffe"
+  },
+  "userId": {
+    "$oid": "001bb2700c987cc0fa320074"
+  },
+  "vote": "dislike",
+  "votedAt": {
+    "$date": "2025-05-10T10:40:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6824584be3f6ee260f83e77a"
+  },
+  "videoId": {
+    "$oid": "bc626d9f9aec2a68e3c7bffe"
+  },
+  "userId": {
+    "$oid": "4dfb0e25d42b701e9a8c6f94"
+  },
+  "vote": "like",
+  "votedAt": {
+    "$date": "2025-05-10T10:40:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6824584be3f6ee260f83e77b"
+  },
+  "videoId": {
+    "$oid": "bc626d9f9aec2a68e3c7bffe"
+  },
+  "userId": {
+    "$oid": "2aaedc70fcd2d89953745ec8"
+  },
+  "vote": "like",
+  "votedAt": {
+    "$date": "2025-05-10T10:40:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6824584be3f6ee260f83e77c"
+  },
+  "videoId": {
+    "$oid": "9dc7f27bc24c96cecf5941ca"
+  },
+  "userId": {
+    "$oid": "680bac81c0b89a33ffcd68ba"
+  },
+  "vote": "like",
+  "votedAt": {
+    "$date": "2025-05-10T10:40:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6824584be3f6ee260f83e77d"
+  },
+  "videoId": {
+    "$oid": "9dc7f27bc24c96cecf5941ca"
+  },
+  "userId": {
+    "$oid": "4dfb0e25d42b701e9a8c6f94"
+  },
+  "vote": "like",
+  "votedAt": {
+    "$date": "2025-05-10T10:40:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6824584be3f6ee260f83e77e"
+  },
+  "videoId": {
+    "$oid": "9dc7f27bc24c96cecf5941ca"
+  },
+  "userId": {
+    "$oid": "81c254957048e4a912bba0f7"
+  },
+  "vote": "like",
+  "votedAt": {
+    "$date": "2025-05-10T10:40:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6824584be3f6ee260f83e77f"
+  },
+  "videoId": {
+    "$oid": "0041930f21325acd6572793a"
+  },
+  "userId": {
+    "$oid": "81c254957048e4a912bba0f7"
+  },
+  "vote": "like",
+  "votedAt": {
+    "$date": "2025-05-10T10:40:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6824584be3f6ee260f83e780"
+  },
+  "videoId": {
+    "$oid": "0041930f21325acd6572793a"
+  },
+  "userId": {
+    "$oid": "2aaedc70fcd2d89953745ec8"
+  },
+  "vote": "like",
+  "votedAt": {
+    "$date": "2025-05-10T10:40:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6824584be3f6ee260f83e781"
+  },
+  "videoId": {
+    "$oid": "0041930f21325acd6572793a"
+  },
+  "userId": {
+    "$oid": "4dfb0e25d42b701e9a8c6f94"
+  },
+  "vote": "dislike",
+  "votedAt": {
+    "$date": "2025-05-10T10:40:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6824584be3f6ee260f83e782"
+  },
+  "videoId": {
+    "$oid": "8b124d622a6d10ef4bf7e853"
+  },
+  "userId": {
+    "$oid": "81c254957048e4a912bba0f7"
+  },
+  "vote": "like",
+  "votedAt": {
+    "$date": "2025-05-10T10:40:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6824584be3f6ee260f83e783"
+  },
+  "videoId": {
+    "$oid": "8b124d622a6d10ef4bf7e853"
+  },
+  "userId": {
+    "$oid": "6c196b08f9b1ed2cb12ca6f8"
+  },
+  "vote": "like",
+  "votedAt": {
+    "$date": "2025-05-10T10:40:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6824584be3f6ee260f83e784"
+  },
+  "videoId": {
+    "$oid": "8b124d622a6d10ef4bf7e853"
+  },
+  "userId": {
+    "$oid": "2aaedc70fcd2d89953745ec8"
+  },
+  "vote": "like",
+  "votedAt": {
+    "$date": "2025-05-10T10:40:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6824584be3f6ee260f83e785"
+  },
+  "videoId": {
+    "$oid": "7d07c183ea66b28e72ccdaa8"
+  },
+  "userId": {
+    "$oid": "6c196b08f9b1ed2cb12ca6f8"
+  },
+  "vote": "like",
+  "votedAt": {
+    "$date": "2025-05-10T10:40:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6824584be3f6ee260f83e786"
+  },
+  "videoId": {
+    "$oid": "7d07c183ea66b28e72ccdaa8"
+  },
+  "userId": {
+    "$oid": "680bac81c0b89a33ffcd68ba"
+  },
+  "vote": "dislike",
+  "votedAt": {
+    "$date": "2025-05-10T10:40:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6824584be3f6ee260f83e787"
+  },
+  "videoId": {
+    "$oid": "7d07c183ea66b28e72ccdaa8"
+  },
+  "userId": {
+    "$oid": "4dfb0e25d42b701e9a8c6f94"
+  },
+  "vote": "dislike",
+  "votedAt": {
+    "$date": "2025-05-10T10:40:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6824584be3f6ee260f83e788"
+  },
+  "videoId": {
+    "$oid": "1710ecfe92f5d39be4ede782"
+  },
+  "userId": {
+    "$oid": "6c196b08f9b1ed2cb12ca6f8"
+  },
+  "vote": "dislike",
+  "votedAt": {
+    "$date": "2025-05-10T10:40:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6824584be3f6ee260f83e789"
+  },
+  "videoId": {
+    "$oid": "1710ecfe92f5d39be4ede782"
+  },
+  "userId": {
+    "$oid": "81c254957048e4a912bba0f7"
+  },
+  "vote": "like",
+  "votedAt": {
+    "$date": "2025-05-10T10:40:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6824584be3f6ee260f83e78a"
+  },
+  "videoId": {
+    "$oid": "1710ecfe92f5d39be4ede782"
+  },
+  "userId": {
+    "$oid": "680bac81c0b89a33ffcd68ba"
+  },
+  "vote": "like",
+  "votedAt": {
+    "$date": "2025-05-10T10:40:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6824584be3f6ee260f83e78b"
+  },
+  "videoId": {
+    "$oid": "ba4d92830ee71192111cb40e"
+  },
+  "userId": {
+    "$oid": "6c196b08f9b1ed2cb12ca6f8"
+  },
+  "vote": "like",
+  "votedAt": {
+    "$date": "2025-05-10T10:40:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6824584be3f6ee260f83e78c"
+  },
+  "videoId": {
+    "$oid": "ba4d92830ee71192111cb40e"
+  },
+  "userId": {
+    "$oid": "4dfb0e25d42b701e9a8c6f94"
+  },
+  "vote": "like",
+  "votedAt": {
+    "$date": "2025-05-10T10:40:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6824584be3f6ee260f83e78d"
+  },
+  "videoId": {
+    "$oid": "ba4d92830ee71192111cb40e"
+  },
+  "userId": {
+    "$oid": "81c254957048e4a912bba0f7"
+  },
+  "vote": "like",
+  "votedAt": {
+    "$date": "2025-05-10T10:40:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6824584be3f6ee260f83e78e"
+  },
+  "videoId": {
+    "$oid": "0bf126cf4628adaa990931f8"
+  },
+  "userId": {
+    "$oid": "81c254957048e4a912bba0f7"
+  },
+  "vote": "dislike",
+  "votedAt": {
+    "$date": "2025-05-10T10:40:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6824584be3f6ee260f83e78f"
+  },
+  "videoId": {
+    "$oid": "0bf126cf4628adaa990931f8"
+  },
+  "userId": {
+    "$oid": "4dfb0e25d42b701e9a8c6f94"
+  },
+  "vote": "dislike",
+  "votedAt": {
+    "$date": "2025-05-10T10:40:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6824584be3f6ee260f83e790"
+  },
+  "videoId": {
+    "$oid": "0bf126cf4628adaa990931f8"
+  },
+  "userId": {
+    "$oid": "2aaedc70fcd2d89953745ec8"
+  },
+  "vote": "dislike",
+  "votedAt": {
+    "$date": "2025-05-10T10:40:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6824584be3f6ee260f83e791"
+  },
+  "videoId": {
+    "$oid": "6bb252eb8a82a9b421ed1b49"
+  },
+  "userId": {
+    "$oid": "680bac81c0b89a33ffcd68ba"
+  },
+  "vote": "dislike",
+  "votedAt": {
+    "$date": "2025-05-10T10:40:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6824584be3f6ee260f83e792"
+  },
+  "videoId": {
+    "$oid": "6bb252eb8a82a9b421ed1b49"
+  },
+  "userId": {
+    "$oid": "4dfb0e25d42b701e9a8c6f94"
+  },
+  "vote": "like",
+  "votedAt": {
+    "$date": "2025-05-10T10:40:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6824584be3f6ee260f83e793"
+  },
+  "videoId": {
+    "$oid": "6bb252eb8a82a9b421ed1b49"
+  },
+  "userId": {
+    "$oid": "2aaedc70fcd2d89953745ec8"
+  },
+  "vote": "like",
+  "votedAt": {
+    "$date": "2025-05-10T10:40:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6824584be3f6ee260f83e794"
+  },
+  "videoId": {
+    "$oid": "9d7151f56f66e60ef2ff6fdb"
+  },
+  "userId": {
+    "$oid": "680bac81c0b89a33ffcd68ba"
+  },
+  "vote": "like",
+  "votedAt": {
+    "$date": "2025-05-10T10:40:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6824584be3f6ee260f83e795"
+  },
+  "videoId": {
+    "$oid": "9d7151f56f66e60ef2ff6fdb"
+  },
+  "userId": {
+    "$oid": "001bb2700c987cc0fa320074"
+  },
+  "vote": "like",
+  "votedAt": {
+    "$date": "2025-05-10T10:40:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6824584be3f6ee260f83e796"
+  },
+  "videoId": {
+    "$oid": "9d7151f56f66e60ef2ff6fdb"
+  },
+  "userId": {
+    "$oid": "4dfb0e25d42b701e9a8c6f94"
+  },
+  "vote": "like",
+  "votedAt": {
+    "$date": "2025-05-10T10:40:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6824584be3f6ee260f83e797"
+  },
+  "videoId": {
+    "$oid": "da0bdf97567c52942899d871"
+  },
+  "userId": {
+    "$oid": "4dfb0e25d42b701e9a8c6f94"
+  },
+  "vote": "dislike",
+  "votedAt": {
+    "$date": "2025-05-10T10:40:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6824584be3f6ee260f83e798"
+  },
+  "videoId": {
+    "$oid": "da0bdf97567c52942899d871"
+  },
+  "userId": {
+    "$oid": "001bb2700c987cc0fa320074"
+  },
+  "vote": "like",
+  "votedAt": {
+    "$date": "2025-05-10T10:40:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6824584be3f6ee260f83e799"
+  },
+  "videoId": {
+    "$oid": "da0bdf97567c52942899d871"
+  },
+  "userId": {
+    "$oid": "680bac81c0b89a33ffcd68ba"
+  },
+  "vote": "dislike",
+  "votedAt": {
+    "$date": "2025-05-10T10:40:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6824584be3f6ee260f83e79a"
+  },
+  "videoId": {
+    "$oid": "40effd4969cbc2c3071bb68c"
+  },
+  "userId": {
+    "$oid": "680bac81c0b89a33ffcd68ba"
+  },
+  "vote": "like",
+  "votedAt": {
+    "$date": "2025-05-10T10:40:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6824584be3f6ee260f83e79b"
+  },
+  "videoId": {
+    "$oid": "40effd4969cbc2c3071bb68c"
+  },
+  "userId": {
+    "$oid": "001bb2700c987cc0fa320074"
+  },
+  "vote": "like",
+  "votedAt": {
+    "$date": "2025-05-10T10:40:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6824584be3f6ee260f83e79c"
+  },
+  "videoId": {
+    "$oid": "40effd4969cbc2c3071bb68c"
+  },
+  "userId": {
+    "$oid": "2aaedc70fcd2d89953745ec8"
+  },
+  "vote": "like",
+  "votedAt": {
+    "$date": "2025-05-10T10:40:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6824584be3f6ee260f83e79d"
+  },
+  "videoId": {
+    "$oid": "93e7bbcebad991cde9f27a79"
+  },
+  "userId": {
+    "$oid": "001bb2700c987cc0fa320074"
+  },
+  "vote": "like",
+  "votedAt": {
+    "$date": "2025-05-10T10:40:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6824584be3f6ee260f83e79e"
+  },
+  "videoId": {
+    "$oid": "93e7bbcebad991cde9f27a79"
+  },
+  "userId": {
+    "$oid": "6c196b08f9b1ed2cb12ca6f8"
+  },
+  "vote": "like",
+  "votedAt": {
+    "$date": "2025-05-10T10:40:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6824584be3f6ee260f83e79f"
+  },
+  "videoId": {
+    "$oid": "93e7bbcebad991cde9f27a79"
+  },
+  "userId": {
+    "$oid": "680bac81c0b89a33ffcd68ba"
+  },
+  "vote": "like",
+  "votedAt": {
+    "$date": "2025-05-10T10:40:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6824584be3f6ee260f83e7a0"
+  },
+  "videoId": {
+    "$oid": "9418a0bf0e124c0aee30c19a"
+  },
+  "userId": {
+    "$oid": "680bac81c0b89a33ffcd68ba"
+  },
+  "vote": "like",
+  "votedAt": {
+    "$date": "2025-05-10T10:40:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6824584be3f6ee260f83e7a1"
+  },
+  "videoId": {
+    "$oid": "9418a0bf0e124c0aee30c19a"
+  },
+  "userId": {
+    "$oid": "6c196b08f9b1ed2cb12ca6f8"
+  },
+  "vote": "dislike",
+  "votedAt": {
+    "$date": "2025-05-10T10:40:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6824584be3f6ee260f83e7a2"
+  },
+  "videoId": {
+    "$oid": "9418a0bf0e124c0aee30c19a"
+  },
+  "userId": {
+    "$oid": "2aaedc70fcd2d89953745ec8"
+  },
+  "vote": "like",
+  "votedAt": {
+    "$date": "2025-05-10T10:40:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6824584be3f6ee260f83e7a3"
+  },
+  "videoId": {
+    "$oid": "fdd45ff110c698c777c6f731"
+  },
+  "userId": {
+    "$oid": "6c196b08f9b1ed2cb12ca6f8"
+  },
+  "vote": "dislike",
+  "votedAt": {
+    "$date": "2025-05-10T10:40:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6824584be3f6ee260f83e7a4"
+  },
+  "videoId": {
+    "$oid": "fdd45ff110c698c777c6f731"
+  },
+  "userId": {
+    "$oid": "81c254957048e4a912bba0f7"
+  },
+  "vote": "dislike",
+  "votedAt": {
+    "$date": "2025-05-10T10:40:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6824584be3f6ee260f83e7a5"
+  },
+  "videoId": {
+    "$oid": "fdd45ff110c698c777c6f731"
+  },
+  "userId": {
+    "$oid": "001bb2700c987cc0fa320074"
+  },
+  "vote": "like",
+  "votedAt": {
+    "$date": "2025-05-10T10:40:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6824584be3f6ee260f83e7a6"
+  },
+  "videoId": {
+    "$oid": "15c71e78e3dccee6deaab482"
+  },
+  "userId": {
+    "$oid": "680bac81c0b89a33ffcd68ba"
+  },
+  "vote": "like",
+  "votedAt": {
+    "$date": "2025-05-10T10:40:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6824584be3f6ee260f83e7a7"
+  },
+  "videoId": {
+    "$oid": "15c71e78e3dccee6deaab482"
+  },
+  "userId": {
+    "$oid": "4dfb0e25d42b701e9a8c6f94"
+  },
+  "vote": "like",
+  "votedAt": {
+    "$date": "2025-05-10T10:40:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6824584be3f6ee260f83e7a8"
+  },
+  "videoId": {
+    "$oid": "15c71e78e3dccee6deaab482"
+  },
+  "userId": {
+    "$oid": "6c196b08f9b1ed2cb12ca6f8"
+  },
+  "vote": "dislike",
+  "votedAt": {
+    "$date": "2025-05-10T10:40:00.000Z"
+  }
+}]

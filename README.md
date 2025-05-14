@@ -1,6 +1,5 @@
 # Mini YouTube MongoDB Dataset
 
-Course exercise • **_no JSON Schema validators applied_**
 
 ---
 

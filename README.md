@@ -1,6 +1,6 @@
 # Mini YouTube MongoDB Dataset
 
-Course exercise • **_no JSON Schema validators applied_**
+Course exercise •
 
 ---
 
@@ -41,7 +41,7 @@ validation.
 | **playlists** | user‑defined video lists | `ownerId`, `name`, `visibility`, embedded `videos[]` |
 | **comments** | text threads under videos | `videoId`, `userId`, `text`, `createdAt` |
 
-> No JSON Schema validators are applied, so you are free to insert or update
+> 
 > documents with any shape while experimenting.
 
 ---
@@ -80,8 +80,6 @@ The script switches to (or creates) a **Youtube** database and performs one
 | Show last 5 comments on a video | `db.comments.find({ videoId: … }).sort({ createdAt: -1 }).limit(5)` |
 | Build “top liked videos” view | `$lookup` `videoVotes`→`videos`, `$match:{ vote:"like" }`, `$group` |
 
-*(Because no validators are active you can also practise “bad inserts” and then
-clean them up.)*
 
 ---
 
